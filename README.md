@@ -1,4 +1,4 @@
-# GAme Bolsonaro
+# Game Bolsonaro
 
 
 Demos and game for the tutorial "The Making of 'The Aviator': Animating a Basic 3D Scene with Three.js", by Karim Maaloul.
