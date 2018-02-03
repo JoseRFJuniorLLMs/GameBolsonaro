@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'codropsicons';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/codropsicons/codropsicons.eot');
+	src: url('../fonts/codropsicons/codropsicons.eot?#iefix') 
+	format('embedded-opentype'), url('../fonts/codropsicons/codropsicons.woff')
+	 format('woff'), url('../fonts/codropsicons/codropsicons.ttf') 
+	 format('truetype'), url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
+}
+
+*,
+*::after,
+*::before {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+.world {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+  background: -webkit-gradient(linear, left bottom, left top, from(#4b6cb7), to(#000000));
+  background: linear-gradient(to top, #4b6cb7, #000000);
+  height: 100%;
+  position: inherit;
+  z-index: 1;
+}
+.bg-color {
+	position: absolute;
+	  width: 100%;
+	  height: 100%;
+	background: -webkit-gradient(linear, left bottom, left top, from(#4b6cb7), to(#000000));
+	background: linear-gradient(to top, #4b6cb7, #000000);
+	height: 100%;
+	position: inherit;
+	z-index: 1;
+  }
