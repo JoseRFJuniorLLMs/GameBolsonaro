@@ -1,6 +1,9 @@
-# The Aviator
+# GAme Bolsonaro
+
 
 Demos and game for the tutorial "The Making of 'The Aviator': Animating a Basic 3D Scene with Three.js", by Karim Maaloul.
+
+## Credits
 
 [Article on Codrops](http://tympanus.net/codrops/?p=26501)
 
